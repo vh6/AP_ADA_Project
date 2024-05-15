@@ -2,11 +2,11 @@
 **Joint project for Advanced Programming and Advanced Data Analytics 2024**
 
 **Data files:**
-**CSV files E0 (1) through E0 (6)** are data with historical bookmaker odds for the past 6 seasons, downloaded from [football](https://www.football-data.co.uk/).
-**all_seasons CSV and Pickle files** are the result of scraping with premierleague.py.
-**all_games CSV and Pickle files** are the result of scraping with sofifa.py.
-**matches_clean CSV and Pickle files**, as well as **id_df.pkl**, are the result of data wrangling with notebooks **id wrangling.ipynb** and **wrangling 2.ipynb**.
-**test_100 and test_500 CSV and Pickle files** are subsets of matches_clean, that we simulate bets on in simulations.py.
+**CSV files E0 (1) through E0 (6)** are data with historical bookmaker odds for the past 6 seasons, downloaded from [football](https://www.football-data.co.uk/). <br>
+**all_seasons CSV and Pickle files** are the result of scraping with premierleague.py. <br>
+**all_games CSV and Pickle files** are the result of scraping with sofifa.py. <br>
+**matches_clean CSV and Pickle files**, as well as **id_df.pkl**, are the result of data wrangling with notebooks **id wrangling.ipynb** and **wrangling 2.ipynb**. <br>
+**test_100 and test_500 CSV and Pickle files** are subsets of matches_clean, that we simulate bets on in simulations.py. <br>
 
 **Python files:**
 **premierleague.py** Used to scrape premierleague.com.
